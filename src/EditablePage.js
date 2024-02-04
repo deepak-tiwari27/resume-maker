@@ -56,8 +56,9 @@ const EditablePage = () => {
 
     <div  style="margin=left:1em; margin-bottom:1%;">
       <h2 style="font-size:1.5em; display:flex; justify-content:start; margin-left:10px;" > 2. Education</h2>
-      <p>ABC college Jul 2001 – Jul 2001</p>
+      <p>ABC college</p>
       <p>Loren ipsum degree, Loren ipsum</p>
+      <p>july 2001-jun-2005</p>
     </div>
 
     <div style="margin=left:1em; margin-bottom:1%;" >
